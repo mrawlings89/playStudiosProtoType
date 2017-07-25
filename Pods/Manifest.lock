@@ -1,0 +1,15 @@
+PODS:
+  - Leanplum-iOS-SDK (2.0.1)
+  - Leanplum-iOS-UIEditor (2.0.1)
+
+DEPENDENCIES:
+  - Leanplum-iOS-SDK
+  - Leanplum-iOS-UIEditor
+
+SPEC CHECKSUMS:
+  Leanplum-iOS-SDK: 1f3a5ef5db032584c11cbd2c36a8b5df1b343fee
+  Leanplum-iOS-UIEditor: 846bc223a81d2d289eea4c78c6f605d3a9c33a78
+
+PODFILE CHECKSUM: 092989c4d62894683f98a3515f8ce89ece21f166
+
+COCOAPODS: 1.2.1
