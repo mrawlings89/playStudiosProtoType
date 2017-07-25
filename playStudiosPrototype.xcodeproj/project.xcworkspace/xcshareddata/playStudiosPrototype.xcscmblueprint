@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FE49269A31AB5479A99B2F4757268F28112F0555",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FE49269A31AB5479A99B2F4757268F28112F0555" : 9223372036854775807,
+    "F00E4BFE136530CE8FB8063FB1831EC78692C098" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "262CFED0-DE85-43A0-A031-7E0ECCEBCBE6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FE49269A31AB5479A99B2F4757268F28112F0555" : "playStudiosPrototype\/",
+    "F00E4BFE136530CE8FB8063FB1831EC78692C098" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "playStudiosPrototype",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "playStudiosPrototype.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LPSA\/SAPrototypes",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F00E4BFE136530CE8FB8063FB1831EC78692C098"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SolutionsArchitecture\/playStudiosProtoType.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FE49269A31AB5479A99B2F4757268F28112F0555"
+    }
+  ]
+}
